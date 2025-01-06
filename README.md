@@ -12,8 +12,7 @@
 ### 🌍 Where to Find Me  
 - 💼 [Portfolio Website](https://zakaria-akrabou.netlify.app)  
 - 💬 [LinkedIn](https://www.linkedin.com/in/zakaria-akrabou/)  
-- 🔹 [Twitter](https://twitter.com/Zakaria_Akrabou)  
-- 📧 zakaria.akrabou@example.com  
+- 📧 zakaria.akrabou@gmail.com  
 
 ---
 
